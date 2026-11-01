@@ -315,3 +315,8 @@ html { scroll-padding-top: 90px; }
   .cell--b .cell-art img,
   .cell--c .cell-art img { width: 180px; }
 }
+
+:lang(zh) .cell-text p,
+:lang(zh) .news-body p,
+:lang(zh) .rail-text,
+:lang(zh) .stack-text { line-height: 1.8; }
